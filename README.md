@@ -1,4 +1,12 @@
-## Hi there 👋
+xxxDATxxx is fatty stupid. Game/Entertainment Programmer.
+
+## Skills
+- **Languages**: C, C#, C++, pwsh, etc.
+- **Tools**: Vim, Unity, VS Code, HEW, Partner-JET
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/xxxdatxxx/)
+- [𝕏](https://x.com/0x55555555)
 
 <!--
 **xxxDATxxx/xxxDATxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
