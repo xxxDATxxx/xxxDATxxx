@@ -7,6 +7,7 @@ xxxDATxxx is fatty stupid. Game/Entertainment Programmer.
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/xxxdatxxx/)
 - [𝕏](https://x.com/0x55555555)
+- [Blogger](https://www.bonkura.dev/)
 
 <!--
 **xxxDATxxx/xxxDATxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
